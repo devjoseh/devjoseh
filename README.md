@@ -6,7 +6,7 @@ Sou um programador que está sempre em busca de novos desafios e aprendizados. C
 
 Como programador, tenho como objetivo criar soluções inovadoras e eficazes que resolvam os desafios e atendam às necessidades dos usuários. Acredito que a tecnologia pode ser usada para fazer a diferença na vida das pessoas, e estou comprometido em trabalhar em projetos que tenham um impacto positivo na sociedade.
 
-[![instagram](https://img.shields.io/badge/instagram-A425E4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_joseh/) [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHxmaCQRQcJ1Y1fWDvGPktQ) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjoseh/) [![linktree](https://img.shields.io/badge/outros links-green?style=for-the-badge&logo=linktree&logoColor=white)](linktr.ee/devjoseh)
+[![instagram](https://img.shields.io/badge/instagram-A425E4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_joseh/) [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHxmaCQRQcJ1Y1fWDvGPktQ) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjoseh/) [![linktree](https://img.shields.io/badge/outros links-green?style=for-the-badge&logo=linktree&logoColor=white)](linktr.ee/devjoseh)
 
 ## 🚀 Minhas Skills
 
@@ -16,7 +16,7 @@ Como programador, tenho como objetivo criar soluções inovadoras e eficazes que
 
 ### Ferramentas
 
-![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![vscode](https://img.shields.io/badge/Visual Studio code-003791?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![replit](https://img.shields.io/badge/Replit-f26207?style=for-the-badge&logo=replit&logoColor=white) ![figma](https://img.shields.io/badge/Figma-3cabdb?style=for-the-badge&logo=figma&logoColor=white)
+![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![vscode](https://img.shields.io/badge/Visual Studio code-003791?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![replit](https://img.shields.io/badge/Replit-f26207?style=for-the-badge&logo=replit&logoColor=white) ![figma](https://img.shields.io/badge/Figma-3cabdb?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Formação Acadêmica
 
