@@ -1,15 +1,16 @@
 # 💙 Seja Bem-Vindo(a) ao meu perfil!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador By iuricode">
+
 Sou um programador que está sempre em busca de novos desafios e aprendizados. Com mais de 3 anos de experiência em programação em JavaScript, estou atualmente treinando minhas habilidades em Python para ampliar meu leque de conhecimentos e possibilidades.
 
 Como programador, tenho como objetivo criar soluções inovadoras e eficazes que resolvam os desafios e atendam às necessidades dos usuários. Acredito que a tecnologia pode ser usada para fazer a diferença na vida das pessoas, e estou comprometido em trabalhar em projetos que tenham um impacto positivo na sociedade.
 
-[![instagram](https://img.shields.io/badge/instagram-A425E4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_joseh/) [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHxmaCQRQcJ1Y1fWDvGPktQ) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-hernanes-b4b155249/) [![outros](https://img.shields.io/badge/outros links-51C029?style=for-the-badge)](linktr.ee/devjoseh)
+[![instagram](https://img.shields.io/badge/instagram-A425E4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_joseh/) [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHxmaCQRQcJ1Y1fWDvGPktQ) [![instagram](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-hernanes-b4b155249) [![outros](https://img.shields.io/badge/outros links-green?style=for-the-badge&logo=linktree&logoColor=white)](linktr.ee/devjoseh)
 
 ## 🚀 Minhas Skills
 
-### Linguagens 
+### Linguagens
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![nodejs](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
 
