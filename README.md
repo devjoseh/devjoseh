@@ -27,7 +27,7 @@ Algumas informações sobre minha atual instituição de ensino
 **ETEC Abdias do Nascimento** \
 [**Desenvolvimento de Sistemas**](https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/) \
 Linguagens & Tecnologias: `JavaScript`, `Python`, `SQLite`, `MySQL`, `C#`\
-Projetos online: [Magagos 1ºDS](https://magagosds.discloud.app))
+Projetos online: [Magagos 1ºDS](https://magagosds.vercel.app)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" style="margin-right:5px;" src="https://imgur.com/4pBQmAy.png"/>](https://rocketseat.com.br/)
