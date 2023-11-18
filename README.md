@@ -26,7 +26,7 @@ Algumas informações sobre minha atual instituição de ensino
 
 **ETEC Abdias do Nascimento** \
 [**Desenvolvimento de Sistemas**](https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/) \
-Linguagens & Tecnologias: `JavaScript`, `Python`, `SQLite`, `MySQL`, `C#`\
+Linguagens & Tecnologias: `JavaScript`, `Python`, `SQLite`, `MySQL`, `C#`, `HTML & CSS`\
 Projetos online: [Magagos 1ºDS](https://magagosds.vercel.app)
 <br/>
 
