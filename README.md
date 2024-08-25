@@ -17,9 +17,6 @@
       <a href="https://discord.com/invite/PNycqGnRTU"><img src="https://skillicons.dev/icons?i=discord" /></a>
     </div>
   </div>
-  <div align="right">
-    <img src="imgs/Full.png" width="200px" alt="EducaAvalia Logo">
-  </div>
 </div>
 
 <h1 align="center">🚀 Minhas Skills</h1>
