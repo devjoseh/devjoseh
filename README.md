@@ -6,20 +6,25 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoseh&layout=compact&hide_border=true&title_color=00BD85&text_color=FFF&bg_color=0d1117" />
 </div>
 
-<img src="imgs/Full.png" max-width="300px" align="right" alt="EducaAvalia Logo">
-
-Fundador e Desenvolvedor do projeto EducaAvalia - Um aplicativo de avaliações de escolas inclusivas e acessíveis para alunos com deficiência.
-
-Programador entusiasta com habilidades em Typescript, NodeJS, Lua, Firebase, Mongodb e nas horas vagas, Designer. Sou apaixonado em resolver desafios e estou sempre pronto para aprender e colaborar.
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devjoseh/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_joseh/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/PNycqGnRTU)
+<div>
+  <div>
+    <p align="left">Fundador e Desenvolvedor do projeto EducaAvalia - Um aplicativo de avaliações de escolas inclusivas e acessíveis para alunos com deficiência.</p>
+    <br>
+    <p align="left">Programador entusiasta com habilidades em Typescript, NodeJS, Lua, Firebase, Mongodb e nas horas vagas, Designer. Sou apaixonado em resolver desafios e estou sempre pronto para aprender e colaborar.</p>
+    <div align="center">
+    [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devjoseh/)
+    [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_joseh/)
+    [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/PNycqGnRTU)
+    </div>
+  </div>
+  <div>
+    <img src="imgs/Full.png" max-width="250px" align="right" alt="EducaAvalia Logo">
+  </div>
+</div>
 
 <h1 align="center">
 🚀 Minhas Skills
 </h1>
-<hr>
 
 <h2 align="center">Linguagens</h2>
 
