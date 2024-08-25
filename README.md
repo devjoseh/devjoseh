@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoseh&layout=compact&hide_border=true&title_color=00BD85&text_color=FFF&bg_color=0d1117" />
 </div>
 
-<img src="imgs/Full.png" alt="EducaAvalia Logo" width="175px" align="right">
+<img src="imgs/Full.png" alt="EducaAvalia Logo" width="200px" align="right">
 
 <div align="left">
   <p>Fundador e Desenvolvedor do projeto EducaAvalia - Um aplicativo de avaliações de escolas inclusivas e acessíveis para alunos com deficiência.</p>
