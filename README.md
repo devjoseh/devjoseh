@@ -6,25 +6,23 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoseh&layout=compact&hide_border=true&title_color=00BD85&text_color=FFF&bg_color=0d1117" />
 </div>
 
-<div>
-  <div>
-    <p align="left">Fundador e Desenvolvedor do projeto EducaAvalia - Um aplicativo de avaliações de escolas inclusivas e acessíveis para alunos com deficiência.</p>
+<div align="center">
+  <div align="left" style="display: inline-block; max-width: 60%;">
+    <p>Fundador e Desenvolvedor do projeto EducaAvalia - Um aplicativo de avaliações de escolas inclusivas e acessíveis para alunos com deficiência.</p>
     <br>
-    <p align="left">Programador entusiasta com habilidades em Typescript, NodeJS, Lua, Firebase, Mongodb e nas horas vagas, Designer. Sou apaixonado em resolver desafios e estou sempre pronto para aprender e colaborar.</p>
+    <p>Programador entusiasta com habilidades em Typescript, NodeJS, Lua, Firebase, Mongodb e nas horas vagas, Designer. Sou apaixonado em resolver desafios e estou sempre pronto para aprender e colaborar.</p>
     <div align="center">
-    [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devjoseh/)
-    [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_joseh/)
-    [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/PNycqGnRTU)
+      <a href="https://www.linkedin.com/in/devjoseh/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+      <a href="https://www.instagram.com/dev_joseh/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+      <a href="https://discord.com/invite/PNycqGnRTU"><img src="https://skillicons.dev/icons?i=discord" /></a>
     </div>
   </div>
-  <div>
-    <img src="imgs/Full.png" max-width="250px" align="right" alt="EducaAvalia Logo">
+  <div style="display: inline-block; max-width: 35%; vertical-align: top;">
+    <img src="imgs/Full.png" width="100%" alt="EducaAvalia Logo">
   </div>
 </div>
 
-<h1 align="center">
-🚀 Minhas Skills
-</h1>
+<h1 align="center">🚀 Minhas Skills</h1>
 
 <h2 align="center">Linguagens</h2>
 
