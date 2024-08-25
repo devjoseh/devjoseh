@@ -1,44 +1,33 @@
-# 💙 Seja Bem-Vindo(a) ao meu perfil!
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BD85&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-Vindo(a)+ao+meu+Perfil!;Meu+nome+é+José+Hernanes!;Tenho+16+anos!;💚+EducaAvalia+:%29)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador By iuricode">
+<div align="center">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoseh&layout=compact&hide_border=true&title_color=00BD85&text_color=FFF&bg_color=0d1117" />
+</div>
 
-Sou um programador que está sempre em busca de novos desafios e aprendizados. Com mais de 3 anos de experiência em programação em JavaScript, estou atualmente treinando minhas habilidades em Python para ampliar meu leque de conhecimentos e possibilidades.
+<img src="imgs/Sf.png" max-width="300px" align="right" alt="EducaAvalia Logo">
 
-Como programador, tenho como objetivo criar soluções inovadoras e eficazes que resolvam os desafios e atendam às necessidades dos usuários. Acredito que a tecnologia pode ser usada para fazer a diferença na vida das pessoas, e estou comprometido em trabalhar em projetos que tenham um impacto positivo na sociedade.
+Fundador e Desenvolvedor do projeto EducaAvalia - Um aplicativo de avaliações de escolas inclusivas e acessíveis para alunos com deficiência.
 
-[![instagram](https://img.shields.io/badge/instagram-A425E4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_joseh/) [![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHxmaCQRQcJ1Y1fWDvGPktQ) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjoseh/) [![linktree](https://img.shields.io/badge/outros links-green?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devjoseh) 
+Programador entusiasta com habilidades em Typescript, NodeJS, Lua, Firebase, Mongodb e nas horas vagas, Designer. Sou apaixonado em resolver desafios e estou sempre pronto para aprender e colaborar.
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devjoseh/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_joseh/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/PNycqGnRTU)
 
 ## 🚀 Minhas Skills
 
 ### Linguagens
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![nodejs](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white) ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,discordjs,lua,firebase,mongodb,html,css" />
+  </a>
+</p>
 
 ### Ferramentas
 
-![git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![vscode](https://img.shields.io/badge/Visual Studio code-003791?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![replit](https://img.shields.io/badge/Replit-f26207?style=for-the-badge&logo=replit&logoColor=white) ![figma](https://img.shields.io/badge/Figma-3cabdb?style=for-the-badge&logo=figma&logoColor=white)
-
-### Formação Acadêmica
-
-Algumas informações sobre minha atual instituição de ensino
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://imgur.com/0uTjiti.jpeg"/>](https://www.spacex.com/)
-
-**ETEC Abdias do Nascimento** \
-[**Desenvolvimento de Sistemas**](https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/) \
-Linguagens & Tecnologias: `JavaScript`, `Python`, `SQLite`, `MySQL`, `C#`, `HTML & CSS`\
-Projetos online: [Magagos 1ºDS](https://magagosds.vercel.app)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" style="margin-right:5px;" src="https://imgur.com/4pBQmAy.png"/>](https://rocketseat.com.br/)
-
-**Curso Python** \
-[**Python Essentials 1**](https://www.credly.com/badges/172d700d-810d-40d2-92fa-9f379be01341/linked_in?t=ruvprl) • Certificado \
-Linguagens & Tecnologias: `Python`\
-<br/>
-
-# 📈 Estatísticas do meu Github
-
-<a href="https://github.com/devjoseh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoseh&theme=dark&hide_langs_below=1" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,figma" />
+  </a>
+</p>
