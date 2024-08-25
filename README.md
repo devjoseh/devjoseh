@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<h2 align="center">👨‍💻 Linguagens</h2>
+<h1 align="center">👨‍💻 Linguagens</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h2 align="center">🔧 Ferramentas</h2>
+<h1 align="center">🔧 Ferramentas</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
