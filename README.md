@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <div align="left" style="display: inline-block; max-width: 60%;">
+  <div align="left">
     <p>Fundador e Desenvolvedor do projeto EducaAvalia - Um aplicativo de avaliações de escolas inclusivas e acessíveis para alunos com deficiência.</p>
     <br>
     <p>Programador entusiasta com habilidades em Typescript, NodeJS, Lua, Firebase, Mongodb e nas horas vagas, Designer. Sou apaixonado em resolver desafios e estou sempre pronto para aprender e colaborar.</p>
@@ -17,8 +17,8 @@
       <a href="https://discord.com/invite/PNycqGnRTU"><img src="https://skillicons.dev/icons?i=discord" /></a>
     </div>
   </div>
-  <div style="display: inline-block; max-width: 35%; vertical-align: top;">
-    <img src="imgs/Full.png" width="100%" alt="EducaAvalia Logo">
+  <div align="right">
+    <img src="imgs/Full.png" width="200px" alt="EducaAvalia Logo">
   </div>
 </div>
 
