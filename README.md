@@ -13,8 +13,8 @@
 
 ## 🔨 Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,discordjs,python,lua,html,css&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=discord,firebase,mongodb&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,replit,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,discordjs,python,lua,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,replit,git,github)](https://skillicons.dev)
 
 <p>👨‍🏫 “𝘚𝘦 𝘢 𝘦𝘥𝘶𝘤𝘢𝘤𝘢𝘰 𝘴𝘰𝘻𝘪𝘯𝘩𝘢 𝘯𝘢𝘰 𝘵𝘳𝘢𝘯𝘴𝘧𝘰𝘳𝘮𝘢 𝘢 𝘴𝘰𝘤𝘪𝘦𝘥𝘢𝘥𝘦, 𝘴𝘦𝘮 𝘦𝘭𝘢 𝘵𝘢𝘮𝘱𝘰𝘶𝘤𝘰 𝘢 𝘴𝘰𝘤𝘪𝘦𝘥𝘢𝘥𝘦 𝘮𝘶𝘥𝘢.” - 𝘗𝘢𝘶𝘭𝘰 𝘍𝘳𝘦𝘪𝘳𝘦</p>
